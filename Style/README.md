@@ -13,3 +13,5 @@ A random password is generated according to the user’s choices.  If the user c
 
 The project was created to help me understand JavaScript better using arrays, random functions, push, prompts and other JavaScript tools.  I was given the HTML and CSS code.
 
+Deployed webpage link
+https://seanmcnallie.github.io/Password-Generator/
